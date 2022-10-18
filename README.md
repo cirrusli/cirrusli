@@ -74,6 +74,7 @@ Hi! Dear    ![Visitor Count](https://profile-counter.glitch.me/CodeXzzz/count.sv
 ### CSDN  
 https://blog.csdn.net/m0_61472414  
   
+📫 Email:codexzzz@outlook.com
 
 <br/>  
 
