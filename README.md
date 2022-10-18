@@ -5,6 +5,7 @@
 
 ### <div align="center">I'm CodeXzzz, a back-end developer 👨‍💻 studying constantly since 2021 🚀</div>  
   
+Hi! Dear    ![Visitor Count](https://profile-counter.glitch.me/CodeXzzz/count.svg)    vistor.
 
 - 🔭 I’m currently studying at Xi'an University of Posts and Telecommunications  
   
