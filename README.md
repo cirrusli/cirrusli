@@ -82,6 +82,7 @@ https://blog.csdn.net/m0_61472414
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=CodeXzzz&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXzzz&layout=compact&theme=tokyonight)
 <br/>  
 
 
