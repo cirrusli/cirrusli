@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Cirrus Li, a back-end developer 👨‍💻 studying constantly since 2021 🚀</div>  
   
-Hi! Dear    ![Visitor Count](https://profile-counter.glitch.me/CodeXzzz/count.svg)    vistor.
+Hi! Dear    ![Visitor Count](https://profile-counter.glitch.me/cirrusli/count.svg)    vistor.
 
 - 🔭 I’m currently studying at Xi'an University of Posts and Telecommunications  
   
@@ -64,7 +64,7 @@ Hi! Dear    ![Visitor Count](https://profile-counter.glitch.me/CodeXzzz/count.sv
 
 
 ## Connect with me  
-<a href="https://github.com/CodeXzzz" target="_blank">
+<a href="https://github.com/cirrusli" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
@@ -80,9 +80,9 @@ https://blog.csdn.net/m0_61472414
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=CodeXzzz&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=cirrusli&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeXzzz&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cirrusli&layout=compact&theme=tokyonight)
 <br/>  
 
 
