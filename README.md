@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Cirrus Li, a back-end developer 👨‍💻 studying constantly since 2021 🚀</div>  
   
-Hi! Dear    ![Visitor Count](https://profile-counter.glitch.me/cirrusli/count.svg)    vistor.
+Hi! Dear    ![Visitor Count](https://profile-counter.glitch.me/cirrusli/count.svg)    visitor.
 
 - 🔭 I’m currently studying at Xi'an University of Posts and Telecommunications  
   
