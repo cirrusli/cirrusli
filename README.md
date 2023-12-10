@@ -10,12 +10,9 @@ Hi! Dear    ![Visitor Count](https://profile-counter.glitch.me/cirrusli/count.sv
 - 🔭 I’m currently studying at Xi'an University of Posts and Telecommunications  
   
 
-- 🌱 I’m currently learning Golang and Python  
+- 🌱 I’m currently learning Go and Python  
+   
   
-
-- ❓ Ask me about anything related to Golang and related technologies(Although I don't have enough mastery🙄）  
-  
-
 - ⚡ Waiting for additional content...  
   
 
