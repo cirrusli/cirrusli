@@ -7,7 +7,7 @@
   
 Hi! Dear    ![Visitor Count](https://profile-counter.glitch.me/cirrusli/count.svg)    visitor.
 
-- 🔭 I’m currently studying at Xi'an University of Posts and Telecommunications  
+- 🔭 I’m currently studying at University
   
 
 - 🌱 I’m currently learning Go and Python  
